@@ -227,5 +227,12 @@ The [issue tracker](/issues) is the preferred channel for bug reports, features 
 For pull requests, editor preferences are available in the [editor config](.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
 
 
+<img width="1470" alt="Screenshot 2024-04-06 at 1 20 41 PM" src="https://github.com/MytPraveen/Petclinic/assets/160492814/7f4e4390-54e4-46c1-a644-0d2e7d342e43">
+<img width="1470" alt="Screenshot 2024-04-06 at 1 20 23 PM" src="https://github.com/MytPraveen/Petclinic/assets/160492814/27843aff-cc87-49eb-b519-be475e6c917a">
+<img width="1470" alt="Screenshot 2024-04-06 at 1 20 14 PM" src="https://github.com/MytPraveen/Petclinic/assets/160492814/dd96f534-c7f6-4e0b-9739-612ae04d6fc9">
+
+
+
+
 
 
